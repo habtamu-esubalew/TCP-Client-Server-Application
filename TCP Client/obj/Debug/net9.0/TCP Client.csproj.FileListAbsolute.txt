@@ -1,0 +1,29 @@
+C:\Users\Heal Africa\source\repos\TCP Client\bin\Debug\net9.0\TCP Client.exe
+C:\Users\Heal Africa\source\repos\TCP Client\bin\Debug\net9.0\TCP Client.deps.json
+C:\Users\Heal Africa\source\repos\TCP Client\bin\Debug\net9.0\TCP Client.runtimeconfig.json
+C:\Users\Heal Africa\source\repos\TCP Client\bin\Debug\net9.0\TCP Client.dll
+C:\Users\Heal Africa\source\repos\TCP Client\bin\Debug\net9.0\TCP Client.pdb
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.AssemblyInfoInputs.cache
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.AssemblyInfo.cs
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.dll
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\refint\TCP Client.dll
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.pdb
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\TCP Client.genruntimeconfig.cache
+C:\Users\Heal Africa\source\repos\TCP Client\obj\Debug\net9.0\ref\TCP Client.dll
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\bin\Debug\net9.0\TCP Client.exe
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\bin\Debug\net9.0\TCP Client.deps.json
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\bin\Debug\net9.0\TCP Client.runtimeconfig.json
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\bin\Debug\net9.0\TCP Client.dll
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\bin\Debug\net9.0\TCP Client.pdb
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.AssemblyInfoInputs.cache
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.AssemblyInfo.cs
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.csproj.CoreCompileInputs.cache
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.sourcelink.json
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.dll
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\refint\TCP Client.dll
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.pdb
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\TCP Client.genruntimeconfig.cache
+D:\Projects\HAHC\TCP-Client-Server-Application\TCP Client\obj\Debug\net9.0\ref\TCP Client.dll
